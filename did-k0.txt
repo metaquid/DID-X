@@ -1,0 +1,100 @@
+DIDs are a new type of identifier that enable verifiable, self-sovereign digital identities.
+DIDs are created by their owners, not by centralized authorities like governments or corporations.
+Decentralization is a core principle of DID technology, designed to prevent reliance on any single entity.
+DIDs can be stored on a blockchain, but they can also reside in other decentralized systems.
+A DID Document is the associated metadata that describes a DID.
+DID Documents are machine-readable, providing public information about the DID.
+DID Documents contain cryptographic keys for secure verification.
+DID Documents also contain service endpoints that direct how to interact with the DID.
+W3C has defined the DID specification, making it a web standard.
+DIDs are part of the broader Web 3.0 movement for a more user-centric internet.
+Self-sovereign identity (SSI) is the concept behind DIDs, emphasizing user control.
+Verifiable Credentials (VCs) often work alongside DIDs to authenticate identity claims.
+Each DID is globally unique, even without a central authority.
+DIDs are structured as URIs, similar to website URLs.
+A DID could look like this: did:example:123456789abcdefghi.
+The method in the DID URI (e.g., example) specifies how it’s implemented.
+DID methods define how to create, read, update, and deactivate a DID.
+Different blockchains may support different DID methods.
+DID Resolvers allow software to locate and interpret DID Documents.
+A DID Controller manages the creation and updates of the DID.
+DIDs are cryptographically secure and prevent tampering.
+DIDs promote privacy by minimizing data exposure.
+DIDs enhance security by preventing single points of failure.
+DIDs support the concept of a “user-owned internet.”
+Users can rotate cryptographic keys in their DID without changing the DID itself.
+DIDs enable cross-platform digital identity solutions.
+With DIDs, users control who can access their identity information.
+DIDs are typically associated with a pair of cryptographic keys (public and private).
+DID Documents can be stored on various decentralized storage systems, not just blockchains.
+Service endpoints in DID Documents can be used for interactions such as messaging.
+DIDs can be used in decentralized finance (DeFi) for verifying identity.
+Governments and organizations are exploring DIDs for digital credentials.
+DIDs can reduce identity fraud by providing secure, verifiable identifiers.
+DID Auth is a way for users to authenticate with a DID instead of a username and password.
+DID Comm is a protocol for secure messaging using DIDs.
+DIDs are interoperable with a range of digital wallets.
+DIDs are resilient, as they don’t rely on any single server.
+DIDs can protect users’ identities in virtual worlds and metaverses.
+DID methods are registered and published on DID Method Registries.
+Public keys in DID Documents allow others to verify the authenticity of the DID owner.
+DIDs support selective disclosure, revealing only relevant identity information.
+DIDs can be updated or revoked as needed by the DID controller.
+DIDs can link to IoT devices for secure, decentralized IoT management.
+DIDs are compatible with mobile and web applications.
+Each DID Document has a unique DID URL.
+Decentralized Identifiers enable digital signatures for verifiable transactions.
+DIDs don’t require a third party for issuing identifiers.
+DID methods may require fees if hosted on certain blockchains.
+DIDs support multi-factor authentication in decentralized systems.
+DIDs can simplify compliance with data privacy regulations.
+DIDs provide data minimization, revealing only essential data.
+A DID Document may list multiple service endpoints.
+Users can hold multiple DIDs for different contexts (e.g., work, social).
+DIDs can be used in healthcare to verify credentials of practitioners.
+DIDs support zero-knowledge proofs for privacy-preserving verification.
+DIDs are immutable, but DID Documents are mutable.
+DID Controllers can delegate rights to other entities.
+DIDs are part of the self-sovereign identity movement.
+DID Standards are set by organizations like W3C and DIF (Decentralized Identity Foundation).
+DIDs can use multiple cryptographic algorithms, such as RSA and Elliptic Curve.
+DIDs can be associated with biometric data in some systems.
+DIDs allow organizations to issue digital certificates.
+DIDs reduce reliance on passwords by leveraging cryptography.
+DIDs can be used in e-commerce to verify customer identities.
+DIDs are often stored in digital wallets.
+DIDs allow users to revoke access to their identity data.
+DIDs can be used in voting systems for secure digital elections.
+DIDs support cross-border identity verification.
+DIDs allow persistent identities in a decentralized world.
+DIDs provide a framework for trusted data exchange.
+DID networks like Sovrin and Ethereum support decentralized identity solutions.
+DIDs allow organizations to implement BYOI (Bring Your Own Identity).
+DIDs are compatible with OAuth 2.0 and OpenID Connect.
+DID URLs enable selective access to DID Documents.
+DIDs enable proof of personhood without revealing PII.
+DIDs can integrate with smart contracts on blockchains.
+DID-based authentication can secure sensitive digital transactions.
+DIDs can establish trusted identity ecosystems.
+DIDs allow users to verify reputation data across networks.
+DIDs enable cross-application identity portability.
+DIDs can eliminate fake profiles by providing proof of real identity.
+DIDs enable privacy-preserving advertising.
+DID wallets store DIDs, credentials, and private keys.
+DID-backed reputation systems are more resistant to tampering.
+DID Methods are implemented in code and registered openly.
+DIDs can be connected to IoT for device-to-device authentication.
+DIDs are being tested in telecommunications for customer verification.
+DID standards are evolving, with new features regularly added.
+DIDs are machine-readable, enabling seamless automation.
+DIDs allow for peer-to-peer verification.
+DID-based education credentials allow lifelong learning records.
+DIDs support role-based access control.
+DIDs can establish verified digital relationships.
+DIDs are resilient against censorship.
+DIDs eliminate the need for trusted third-party intermediaries.
+DIDs are gaining adoption in the financial sector.
+DIDs empower users to be data custodians.
+DIDs allow secure, user-controlled data sharing.
+DIDs are built for the next generation of digital services.
+DIDs represent a step toward a truly decentralized web.
