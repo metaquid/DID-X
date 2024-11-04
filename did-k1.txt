@@ -1,0 +1,100 @@
+DIDs can be used for device identity, authenticating phones, laptops, and IoT devices.
+DID protocols enable a variety of identifier types, including pseudo-anonymous DIDs.
+DID rotation allows for the secure replacement of keys if compromised.
+DIDs are being used to power decentralized social media.
+DIDs facilitate multi-signature authentication where more than one person can control a DID.
+DID chains can link multiple DIDs, creating trust across different domains.
+DID Mutability: Some DIDs can be updated without changing the identifier itself.
+DID security practices can reduce impersonation attacks.
+Decentralized Key Management Systems (DKMS) are closely related to DID infrastructure.
+DIDs support selective disclosure, helping reveal only essential identity details.
+DID expiration: Some systems may set DIDs to expire, reinforcing security.
+Delegated DIDs allow another DID to control certain aspects of identity.
+DIDs help prevent service lock-ins by being interoperable across providers.
+Proof of possession with DIDs ensures that only the DID owner can initiate verification.
+Some DIDs are being tested for managing health data securely.
+DIDs can reduce costs for identity verification in KYC (Know Your Customer) processes.
+DIDs can be used in supply chain applications to verify product authenticity.
+Cross-blockchain DIDs are emerging to enhance interoperability.
+DIDs can replace QR codes for quick, verifiable identification.
+DID Controllers can be shared by multiple parties for group management.
+DIDs support progressive disclosure, so users can reveal information over time.
+DID Guardian models allow a third party to recover a DID if it’s lost.
+DIDs can simplify compliance with GDPR by supporting data minimization.
+DID-based reputation can be an alternative to traditional credit scores.
+Pairwise DIDs allow for unique DIDs per relationship, boosting privacy.
+DID-based e-signatures can verify contracts without third-party notaries.
+Some countries are piloting DID-based digital identity programs.
+DIDs enable self-verifying claims, which don’t require third-party validation.
+Dynamic DIDs allow credentials to be updated as conditions change.
+DID Extensions add functionalities, like multi-language support, to DID Documents.
+Verifiable Credentials (VCs) linked to DIDs are portable across digital platforms.
+Service providers can verify DID-backed credentials without storing user data.
+DID-based escrow systems can protect funds in transactions.
+Revocable DIDs are possible, allowing users to cancel a DID if needed.
+DID Delegation: Users can assign certain permissions to another DID.
+DID Aggregators allow various identity sources to be managed together.
+DID Chains can link to parent-child DIDs, supporting complex relationships.
+Decentralized Identity Hubs store encrypted identity data off-chain.
+DID Anonymity sets enable privacy for users with shared characteristics.
+Service endpoints in DIDs can provide more than contact info, like app APIs.
+DIDs can decentralize file access by connecting to IPFS.
+DID-based logins can replace traditional OAuth in some applications.
+Zero-Knowledge Proofs (ZKPs) can make DID verifications more privacy-respecting.
+DIDs support cross-company access controls in decentralized applications.
+DIDs allow for real-time age verification without exposing additional data.
+Custom DID methods can be created for industry-specific use cases.
+Biometric-based DID authentication enables passwordless, secure logins.
+DIDs can simplify trust scoring for individuals and companies.
+Hierarchical DIDs can reflect organizational structures.
+DIDs could help reduce spam in communication platforms.
+DIDs are helping shape decentralized app (dApp) ecosystems.
+DID-based wallets are emerging for gaming, to verify players and ownership.
+DIDs can validate academic credentials securely and cross-institutionally.
+Decentralized storage protocols support DID-based identity backups.
+DID-based logins eliminate the need for third-party SSO providers.
+Self-certifying DIDs let users prove ownership without a third party.
+Multifactor DIDs combine DID and device authentication for security.
+DIDs can facilitate secure AI data exchanges.
+Parent-child DID structures support hierarchical identity management.
+DID-based social networks enhance privacy and control for users.
+DID domains can prevent phishing by authenticating links and sites.
+DIDs provide digital watermarking to track content origin and ownership.
+Cross-border compliance is easier with DIDs due to flexible data policies.
+DID event logs enable transparency in credential issuance.
+DID-based micropayment systems ensure secure, user-controlled transactions.
+DIDs are useful in telehealth to verify provider credentials.
+DID methods have unique resolution methods, tailored to their storage systems.
+Time-sensitive DIDs expire after a specific period for security.
+DIDs enable location-independent identification.
+Ephemeral DIDs can be used for short-lived interactions.
+Reusable VCs can be linked to a single DID for cross-service access.
+DIDs support identity verification in crisis response situations.
+DID-based tokens provide transferable, user-owned credentials.
+DIDs can enforce smart contract-based compliance.
+DIDs provide secure, decentralized access to government services.
+DIDs prevent tracking by decoupling identity and activity.
+DID infrastructure supports time-based data expiration.
+DIDs facilitate identity recovery through trusted third-party verifiers.
+User-centric DIDs allow individuals to create and destroy identities at will.
+DIDs provide a log of trust relationships.
+Multilayer DIDs allow diverse verification levels based on access rights.
+DID-based data marketplaces can protect identity in data transactions.
+DID-based group IDs can represent organizations or DAOs.
+DID guardianship allows trusted entities to recover lost credentials.
+DID wallets can store backup identity credentials.
+DIDs can protect digital assets on decentralized exchanges.
+DID-based identifiers enable tamper-proof legal documents.
+Federated DID protocols support cross-system interoperability.
+DIDs facilitate secure supply chain tracking.
+Anonymous VCs allow private claims with a public DID.
+DIDs enable cross-network login and authentication.
+DIDs could streamline background checks with verifiable history.
+DIDs allow controlled revocation of credentials.
+DID-backed IP protection can reduce counterfeiting in creative industries.
+DIDs make it easier to establish trust in peer-to-peer interactions.
+Geolocation DIDs can verify location without GPS.
+DIDs enhance IoT security by authenticating devices without central servers.
+DID-driven certification can verify skills in decentralized education.
+Decentralized health IDs use DIDs for secure health record access.
+DIDs can minimize data leaks by reducing centralized data storage.
